@@ -1,3 +1,4 @@
 # PicoCTF-Writeups
 
-![GoGo](https://user-images.githubusercontent.com/63357938/131267388-b4a9d470-0503-4fc4-a152-a0fef72b2529.gif)
+![GoGoGo](https://user-images.githubusercontent.com/63357938/131267491-6afdd8fb-9a24-4d5d-8915-74e2f726e355.gif)
+
