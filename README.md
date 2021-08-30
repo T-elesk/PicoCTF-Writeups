@@ -6,9 +6,9 @@
 
 |Question|Points|
 |--------|------|
-|[Obedient Cat](./Web%20Exploitation/Cokkies/Readme.md)|5|
-|[Python Wrangling](./General%20Skills/Python%20Wrangling/Python%20Wrangling.md)|10|
-|[Wave a flag](./General%20Skills/Waving%20Flag/WavingFlag.md)|10|
+|[GET aHEAD](./Web%20Exploitation/Get%20aHEAD/Readme.md)|20|
+|[Cokkies](./Web%20Exploitation/Cokkies/Readme.md)|40|
+|[Login](./Web%20Exploitation/Login/Readme.md)|100|
 |[Nice netcat...](./General%20Skills/Nice%20netcat/Nice%20netcat.md)|15|
 |[Static ain't always noise](./General%20Skills/Static%20ain't%20always%20noise/staticain'talwaysnoise.md)|20|
 |[Tab, Tab, Attack](./General%20Skills/Tab%2C%20Tab%2C%20Attack/Tab%2C%20Tab%2C%20Attack.md)|20|
