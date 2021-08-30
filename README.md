@@ -6,7 +6,7 @@
 
 |Question|Points|
 |--------|------|
-|[Obedient Cat](./Web Exploitation)|5|
+|[Obedient Cat](./Web%20Exploitation)|5|
 |[Python Wrangling](./General%20Skills/Python%20Wrangling/Python%20Wrangling.md)|10|
 |[Wave a flag](./General%20Skills/Waving%20Flag/WavingFlag.md)|10|
 |[Nice netcat...](./General%20Skills/Nice%20netcat/Nice%20netcat.md)|15|
