@@ -18,3 +18,11 @@
 
 ![GoGoGo](https://user-images.githubusercontent.com/63357938/131267491-6afdd8fb-9a24-4d5d-8915-74e2f726e355.gif)
 
+<div class="panel panel-warning">
+**Warning**
+{: .panel-heading}
+<div class="panel-body">
+
+Answers are for help. Please try to solve the questions.
+</div>
+</div>
